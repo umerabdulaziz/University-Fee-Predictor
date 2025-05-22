@@ -1,0 +1,11 @@
+Country,Degree,University_Type,Field,GPA,Tuition,Additional_Fees,Financial_Aid
+USA,BS,Public_InState,Computer Science,3.8,11011,2360,44
+USA,MS,Private,Business Admin,3.5,43505,3100,56
+Germany,BS,Public,Engineering,3.0,157,416,0
+Canada,BS,Public,Biology,3.2,5590,1200,25
+Australia,MS,Private,Data Science,3.7,16057,2500,30
+France,BS,Public,Arts,2.8,182,260,15
+Brazil,BS,Public,Law,3.1,0,300,70
+UK,MS,Private,Finance,3.9,12431,1800,40
+India,BS,Public,Medicine,3.6,1200,500,10
+Norway,MS,Public,Environmental Sci,3.4,0,68,0
